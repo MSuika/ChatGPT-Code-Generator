@@ -1,4 +1,5 @@
 Code Generator
+
 The purpose of this application is to generate code based on a given prompt using the OpenAI API. It can be used to quickly generate code snippets, prototypes, or even entire programs. The generated code can be saved to a file and used in other projects.
 
 Installation

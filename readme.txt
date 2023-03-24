@@ -8,9 +8,8 @@ Before using this application, you must install the necessary dependencies:
 
 `npm install`
 
-You will also need to create a .env file in the root directory of the project and set the following environment variables:
+You will also need to create a .env file in the root directory of the project and set the following environment variable:
 
-OPENAI_ORGANIZATION_ID=<your OpenAI organization ID>
 OPENAI_API_KEY=<your OpenAI API key>
 
 To obtain an OpenAI API key, you will need to create an account on the OpenAI website. Once you have created an account, you can obtain an API key from the dashboard.
